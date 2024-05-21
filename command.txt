@@ -1,0 +1,2 @@
+cd $PYQT_CROM_DIR/utils \
+&& python3 build_app.py --pdt /home/gw/LYH/androidDepoly/QTgui/classdemo/config.pdt --jobs 1 --target android-64 --qmake $QT_DIR/android/bin/qmake --verbose
